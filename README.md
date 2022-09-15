@@ -25,3 +25,6 @@ json
 You need to be able to create written documents that contain images and you need to be able to export these documents as PDF files. This task can be done in a Jupyter Notebook, but you might prefer to use a word processor like Google Docs, which is free, or Microsoft Word.
 A text editor, like Sublime, which is free, will be useful but is not required.
 
+
+![CfN23ArXEAEkZkz](https://user-images.githubusercontent.com/107305797/190484349-f9cfcc33-876a-403b-b9b9-50190ca61ccf.jpg)
+
